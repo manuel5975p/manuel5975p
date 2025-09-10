@@ -6,7 +6,7 @@ Unfortunately the days of using OpenGL / WebGL everywhere are over, since
 - Apple has deprecated OpenGL at version 4.1 and will likely drop support completely in the near future.
 
 Currently I'm working mainly on two projects:
-- [WGVK](https://github.com/manuel5975p/WGVK): A single-file, complete and performant implementation of the WebGPU spec in pure C.
+- [WGVK](https://github.com/manuel5975p/WGVK): A single-file, complete and performant implementation of the WebGPU spec on Vulkan 1.1 in pure C.
 - [RayGPU](https://github.com/manuel5975p/raygpu/): A raylib reimplementation on WebGPU / Vulkan
 
 <!--
