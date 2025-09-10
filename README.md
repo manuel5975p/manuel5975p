@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hello there
+I'm a C/C++ and computer graphics enthusiast who likes creating portable and powerful graphics libraries.
+
+Unfortunately the days of using OpenGL / WebGL everywhere are over, since
+- WebGL2 / OpenGL ES 3 lacks crucial features, such as Compute Shaders and Storage Buffers
+- Apple has deprecated OpenGL at version 4.1 and will likely drop support completely in the near future.
+
+Currently I'm working mainly on two projects:
+- [WGVK](https://github.com/manuel5975p/WGVK): A single-file, complete and performant implementation of the WebGPU spec in pure C.
+- [RayGPU](https://github.com/manuel5975p/raygpu/): A raylib reimplementation on WebGPU / Vulkan
 
 <!--
 **manuel5975p/manuel5975p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
